@@ -1,0 +1,11 @@
+/Users/rahulanil/Documents/garchomp/rust_me_up/mandelbrot/target/debug/deps/libgif-71709e35cba584cf.rmeta: /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/lib.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/traits.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/common.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/util.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/reader/mod.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/reader/decoder.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/encoder.rs
+
+/Users/rahulanil/Documents/garchomp/rust_me_up/mandelbrot/target/debug/deps/gif-71709e35cba584cf.d: /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/lib.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/traits.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/common.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/util.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/reader/mod.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/reader/decoder.rs /Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/encoder.rs
+
+/Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/lib.rs:
+/Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/traits.rs:
+/Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/common.rs:
+/Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/util.rs:
+/Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/reader/mod.rs:
+/Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/reader/decoder.rs:
+/Users/rahulanil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.9.2/src/encoder.rs:
